@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   uuid: ^2.2.0
-  nested: ^0.0.4
+  nested: ^1.0.0
   provider: ^5.0.0
 
 dev_dependencies:
